@@ -1,6 +1,0 @@
-setup.py
-spam_ham_classifier.egg-info/PKG-INFO
-spam_ham_classifier.egg-info/SOURCES.txt
-spam_ham_classifier.egg-info/dependency_links.txt
-spam_ham_classifier.egg-info/requires.txt
-spam_ham_classifier.egg-info/top_level.txt
